@@ -7,4 +7,4 @@ sudo apt-get update -y
 sudo apt-get install puppet-agent -y
 sudo systemctl start puppet
 sudo systemctl enable puppet
-sudo systemctl status puppet
+#sudo systemctl status puppet
